@@ -7,7 +7,6 @@ import {
 import { BitcoinWalletConnectors } from "@dynamic-labs/bitcoin";
 import { EthereumWalletConnectors } from "@dynamic-labs/ethereum";
 import { SafeEvmWalletConnectors } from "@dynamic-labs-connectors/safe-evm";
-import { TapWalletConnectors } from "@dynamic-labs-connectors/tap-bitcoin";
 
 import { useEffect, useState } from "react";
 
